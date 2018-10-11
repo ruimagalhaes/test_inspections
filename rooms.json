@@ -1,0 +1,10 @@
+[
+  {
+    "room": "bathroom",
+    "steps": ["mirror", "contertop ledge", "shower faucet"]
+  },
+  {
+    "room": "kitchen",
+    "steps": ["oven", "floor", "fridge"]
+  }
+]
