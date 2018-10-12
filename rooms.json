@@ -1,7 +1,7 @@
 [
   {
     "room": "bathroom",
-    "steps": ["mirror", "contertop ledge", "shower faucet"]
+    "steps": ["shower faucet", "mirror", "contertop ledge"]
   },
   {
     "room": "kitchen",
